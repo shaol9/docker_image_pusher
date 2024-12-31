@@ -8,4 +8,5 @@
 #--platform=linux/arm64 arm64v8/nginx:1.27
 #--platform=linux/arm64 nacos/nacos-server:v2.4.0
 #--platform=linux/arm64 minio/minio:RELEASE.2024-10-02T17-50-41Z
---platform=linux/arm64 arm64v8/openjdk:17-ea-slim
+#--platform=linux/arm64 arm64v8/openjdk:17-ea-slim
+--platform=linux/arm64 powerjob/powerjob-server:4.3.7
