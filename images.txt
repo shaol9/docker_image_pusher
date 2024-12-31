@@ -4,4 +4,5 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
---platform=linux/arm64 arm64v8/redis:7.2.6
+#--platform=linux/arm64 arm64v8/redis:7.2.6
+--platform=linux/arm64 arm64v8/nginx:1.27
